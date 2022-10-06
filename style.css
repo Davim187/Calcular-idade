@@ -1,0 +1,33 @@
+body {
+    background-color: rgb(68, 131, 214);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+header {
+    text-align: center;
+    padding: 15px;
+    color: aliceblue;
+}
+section input{
+    margin: 10px;
+}
+section {
+    background-color: aliceblue;
+    padding: 15px;
+    border-radius: 20px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 8px 9px rgba(0, 0, 0, 0.342);
+}
+
+footer {
+    color: aliceblue;
+    text-align: center;
+}
+
+img {
+    border-radius: 10%;
+    height: 60%;
+    width: 60%;
+
+}
